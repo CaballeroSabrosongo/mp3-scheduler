@@ -12,6 +12,7 @@
 ## Características
 - Reproducción de MP3 en horarios programados.
 - Soporte para múltiples archivos y horarios.
+- Control de Volumen por pista
 - Fácil de configurar y usar desde la terminal.
 - Funciona en **macOS, Linux y Windows**.
 
