@@ -1,4 +1,4 @@
-# mp3-scheduler
+# Programador de Musica
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 Ejemplo básico para programar una reproducción:
 
 ```bash
-python mp3_scheduler.py --file "cancion.mp3" --time "14:30"
+python Programador de musica.py --file "cancion.mp3" --time "14:30"
 ```
 
 Opciones:
